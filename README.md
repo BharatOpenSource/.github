@@ -8,11 +8,13 @@ Three things drive it: **competence** at all levels, **independence** as a natio
 
 ---
 
-## Two layers. One idea.
+## Three layers. One idea.
 
 **A substrate** — computing infrastructure designed for India's reality.
 
-**An application** — process infrastructure that is transparent, versioned, citizen-owned.
+**A process layer** — institutional and civic processes that are transparent, versioned, citizen-owned.
+
+**A language** — a formal language for expressing any process, rule, or system, rooted in Sanskrit.
 
 ---
 
@@ -21,7 +23,10 @@ Three things drive it: **competence** at all levels, **independence** as a natio
 | Project | What it is | Status |
 |---------|-----------|--------|
 | [indic-os](https://github.com/BharatOpenSource/indic-os) | Linux-based OS built from Indian design values | Vision |
-| [pravaaha](https://github.com/BharatOpenSource/pravaaha) | Git-model applied to civic and institutional processes | Vision |
+| [pravaaha](https://github.com/BharatOpenSource/pravaaha) | Git-model applied to civic and institutional processes | Active |
+| [laya](https://github.com/BharatOpenSource/laya) | Traffic simulation and intersection design tool | Active |
+| [smriti](https://github.com/BharatOpenSource/smriti) | A Sanskrit-rooted formal language for processes and systems | Active |
+| [pramana](https://github.com/BharatOpenSource/pramana) | Identity and access management for pravaaha | Seed |
 
 ---
 
